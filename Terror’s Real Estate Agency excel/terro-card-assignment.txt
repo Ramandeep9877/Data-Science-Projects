@@ -1,0 +1,490 @@
+question 1:-
+
+ age:-
+      mean :- the average age comes to 68.5749 which sum of observation divided by number of observation = mean value. the average age comes out to be a 69 which means out of this all observation 68.5749 is a average value of a distribution figure.
+
+      median :- the median comes out to be 77.5. As the number of observation into this data is even number so we found out this by (n/2)+(n/2)+1. And median value refers to the middle/centre of the data and no outliers will effects to the median value.Into this data the median value represents half of value of ages were greater than the 77.5 and half of the ages were less than the 77.5.
+
+      Standard error:- it represents how the age mean is diffrent from the sample mean.the vlue comes out to be a 1.25137 which indicates its a standard error value which shows the how diffrent the age mean is likely to be from a sampel mean.
+      
+      mode:- indicates that which number appears most into the data. and the age 100 is repeated most of the time into the age. 
+
+      standard deviation:- the standard deviation which comes out to be 28.14886141 it means that our age should be vary from the mean 68.5749-28.1488=40.4261 to 68.5749+   28.1488=96.7237. it should go above to the mean 96.7237 to this value and below the mean 40.4261 to this value for one step of standard deviation.(approx)
+
+
+      range :- range shows us to the range of data means range in which our observations mainly lies like highest-lowest=range of data.
+       
+      maximum:- shows the maximum value lies in our data.
+      
+      minimum:- shows the minimum value lies in our data.
+      
+      sum:- shows the sum of all the ages from the observations.
+
+      count:- shows the number of observations are there into the data.
+    
+  skewness:-
+        a negative skewness values shows that a longer fatter tail on the left side of the distribution.In this case outliers will be there at the beginning of the data and our mean value will be smaller than the median value.
+
+  kurtosis:- 
+        a neagtive value of the kurtosis is shows that the it is a platy kurtic kurtosis which means there are lesser number of outliers into the data and shorter tail it has and lower peak we will see also there.
+
+         
+
+
+indus:-
+       mean :- the average industry area comes to 11.13677866 which sum of observation divided by number of observation = mean value. the average industry area comes out to be a 11.13677866 which means out of this all observation 11.13677866 is a average value of a distribution figure.
+
+      median :- the median comes out to be 9.69. As the number of observation into this data is even number so we found out this by (n/2)+(n/2)+1. And median value refers to the middle/centre of the data and no outliers will effects to the median value.Into this data the median value represents half of value of industry area were greater than the 9.69 and half of the industry area were less than the 9.69.
+
+      Standard error:- it represents how the industry area mean is diffrent from the sample mean.the vlue comes out to be a 0.304979888 which indicates its a standard error value which shows the how diffrent the age mean is likely to be from a sampel mean.
+      
+      mode:- indicates that which number appears most into the data. and the industry area 18.1 is repeated most of the time into the age. 
+
+      standard deviation:- the standard deviation which comes out to be 6.860352941 it means that our industry area mean should be vary from the mean 11.13677866-6.860352941=5.4261 to 11.13677866+6.860352941=17.7237. it should go above to the mean 17.7237 to this value and below the mean 5.4261 to this value for one step of standard deviation.(approx)
+
+
+      range :- range shows us to the range of data means range in which our observations mainly lies like highest-lowest=range of data.
+       
+      maximum:- shows the maximum value lies in our data.
+      
+      minimum:- shows the minimum value lies in our data.
+      
+      sum:- shows the sum of all the ages from the observations.
+
+      count:- shows the number of observations are there into the data.
+
+     skewness:-
+
+     a positive value of the skweness shows that the its tail is more prononunced on the right side than it is on the left.AAAnd in this case we are getting the outliers into the data at the end due to which our mean value is slightly greater than the median value.
+
+
+       kurtosis:- 
+    a neagtive value of the kurtosis is shows that the it is a platy kurtic kurtosis which means there are lesser number of outliers into the data and shorter tail it has and lower peak we will see also there.
+
+
+
+nox:-
+       mean :- the average nitric oxides comes to 0.554695059 which sum of observation divided by number of observation = mean value. the average nitric oxides comes out to be a 0.554695059 which means out of this all observation 11.13677866
+ is a average value of a distribution figure.
+
+      median :- the median comes out to be 0.538. As the number of observation into this data is even number so we found out this by (n/2)+(n/2)+1. And median value refers to the middle/centre of the data and no outliers will effects to the median value.Into this data the median value represents half of value of nitric oxides were greater than the 0.538 and half of the nitric oxides  were less than the 0.538.
+
+      Standard error:- it represents how the nitric oxides  mean is diffrent from the sample mean.the vlue comes out to be a 0.005151391 which indicates its a standard error value which shows the how diffrent the nitric oxides mean is likely to be from a sampel mean.
+      
+      mode:- indicates that which number appears most into the data. and the nitric oxides 0.538 is repeated most of the time into the age. 
+
+      standard deviation:- the standard deviation which comes out to be 0.115877676 it means that our nitric oxides mean should be vary from the mean 0.554695059-0.115877676=0.44121222 to 0.554695059+0.115877676=0.7237899. it should go above to the mean 0.7237899 to this value and below the mean 0.44121222 to this value for one step of standard deviation.(approx)
+
+
+      range :- range shows us to the range of data means range in which our observations mainly lies like highest-lowest=range of data.
+       
+      maximum:- shows the maximum value lies in our data.
+      
+      minimum:- shows the minimum value lies in our data.
+      
+      sum:- shows the sum of all the ages from the observations.
+
+      count:- shows the number of observations are there into the data.
+
+   skewness:-
+
+     a positive value of the skweness shows that the its tail is more prononunced on the right side than it is on the left.AAAnd in this case we are getting the outliers into the data at the end due to which our mean value is slightly greater than the median value.
+
+   kurtosis:- 
+        a neagtive value of the kurtosis is shows that the it is a platy kurtic kurtosis which means there are lesser number of outliers into the data and shorter tail it has and lower peak we will see also there.
+
+
+Distance:-
+       mean :- the average distance from highway comes to 9.549407115 which sum of observation divided by number of observation = mean value. the average distance from highway comes out to be a 9.549407115 which means out of this all observation 9.549407115 is a average value of a distribution figure.
+
+      median :- the median comes out to be 5. As the number of observation into this data is even number so we found out this by (n/2)+(n/2)+1. And median value refers to the middle/centre of the data and no outliers will effects to the median value.Into this data the median value represents half of value of distance from highway were greater than the 5 and half of the distance from highway  were less than the 5.
+
+      Standard error:- it represents how the distance from highway  mean is diffrent from the sample mean.the vlue comes out to be a 0.387084894 which indicates its a standard error value which shows the how diffrent the distance from highway mean is likely to be from a sampel mean.
+      
+      mode:- indicates that which number appears most into the data. and the distance from highway 24 is repeated most of the time into the age. 
+
+      standard deviation:- the standard deviation which comes out to be 8.707259384 it means that our distance from highway mean should be vary from the mean 9.549407115-8.707259384=1.44121222 to 9.549407115+8.707259384=17.7237899. it should go above to the mean 17.7237899 to this value and below the mean 1.44121222 to this value for one step of standard deviation.(approx)
+
+
+      range :- range shows us to the range of data means range in which our observations mainly lies like highest-lowest=range of data.
+       
+      maximum:- shows the maximum value lies in our data.
+      
+      minimum:- shows the minimum value lies in our data.
+      
+      sum:- shows the sum of all the ages from the observations.
+
+      count:- shows the number of observations are there into the data.
+
+   skewness:-
+
+      a positive value of the skweness shows that the its tail is more prononunced on the right side than it is on the left.AAAnd in this case we      are getting the outliers into the data at the end due to which our mean value is slightly greater than the median value.
+  
+     kurtosis:- 
+        a neagtive value of the kurtosis is shows that the it is a platy kurtic kurtosis which means there are lesser number of outliers into the data and shorter tail it has and lower peak we will see also there.
+
+
+
+TAX:-
+       mean :- the average full-value property-tax rate comes to 408.2371542 which sum of observation divided by number of observation = mean value. the average full-value property-tax rate comes out to be a 9.549407115 which means out of this all observation 9.549407115 is a average value of a distribution figure.
+
+      median :- the median comes out to be 330. As the number of observation into this data is even number so we found out this by (n/2)+(n/2)+1. And median value refers to the middle/centre of the data and no outliers will effects to the median value.Into this data the median value represents half of value of full-value property-tax rate were greater than the 330 and half of the full-value property-tax rate were less than the 330.
+
+      Standard error:- it represents how the full-value property-tax rate mean is diffrent from the sample mean.the vlue comes out to be a 7.492388692 which indicates its a standard error value which shows the how diffrent the full-value property-tax rate mean is likely to be from a sampel mean.
+      
+      mode:- indicates that which number appears most into the data. and the full-value property-tax rate 666 is repeated most of the time into the age. 
+
+      standard deviation:- the standard deviation which comes out to be 168.5371161 it means that our full-value property-tax rate mean should be vary from the mean 408.2371542-168.5371161=240.44121222 to 408.2371542+168.5371161=576.7237899. it should go above to the mean 17.7237899 to this value and below the mean 1.44121222 to this value for one step of standard deviation.(approx)
+
+
+      range :- range shows us to the range of data means range in which our observations mainly lies like highest-lowest=range of data.
+       
+      maximum:- shows the maximum value lies in our data.
+      
+      minimum:- shows the minimum value lies in our data.
+      
+      sum:- shows the sum of all the ages from the observations.
+
+      count:- shows the number of observations are there into the data.
+
+skewness:-
+
+     a positive value of the skweness shows that the its tail is more prononunced on the right side than it is on the left.AAAnd in this case we are getting the outliers into the data at the end due to which our mean value is slightly greater than the median value.
+
+   kurtosis:- 
+        a neagtive value of the kurtosis is shows that the it is a platy kurtic kurtosis which means there are lesser number of outliers into the data and shorter tail it has and lower peak we will see also there.
+
+
+
+PTRATIO:-
+       mean :- the average pupil-teacher ratio by town comes to 18.4555336 which sum of observation divided by number of observation = mean value. the average pupil-teacher ratio by town comes out to be a 18.4555336 which means out of this all observation 18.4555336 is a average value of a distribution figure.
+
+      median :- the median comes out to be 19.05. As the number of observation into this data is even number so we found out this by (n/2)+(n/2)+1. And median value refers to the middle/centre of the data and no outliers will effects to the median value.Into this data the median value represents half of value of pupil-teacher ratio by town were greater than the 19.05 and half of the pupil-teacher ratio by town were less than the 19.05.
+
+      Standard error:- it represents how the pupil-teacher ratio by town mean is diffrent from the sample mean.the vlue comes out to be a 0.096243568 which indicates its a standard error value which shows the how diffrent the full-value property-tax rate mean is likely to be from a sampel mean.
+      
+      mode:- indicates that which number appears most into the data. and the pupil-teacher ratio by town 20.2 is repeated most of the time into the age. 
+
+      standard deviation:- the standard deviation which comes out to be 2.164945524 it means that our pupil-teacher ratio by town mean should be vary from the mean 18.4555336-2.164945524=16.44121222 to 18.4555336+2.164945524=20.7237899. it should go above to the mean 20.7237899 to this value and below the mean 16.44121222 to this value for one step of standard deviation.(approx)
+
+
+      range :- range shows us to the range of data means range in which our observations mainly lies like highest-lowest=range of data.
+       
+      maximum:- shows the maximum value lies in our data.
+      
+      minimum:- shows the minimum value lies in our data.
+      
+      sum:- shows the sum of all the ages from the observations.
+
+      count:- shows the number of observations are there into the data.
+
+     skewness:-
+        a negative skewness values shows that a longer fatter tail on the left side of the distribution.In this case outliers will be there at the beginning of the data and our mean value will be smaller than the median value.
+
+     kurtosis:- 
+        a neagtive value of the kurtosis is shows that the it is a platy kurtic kurtosis which means there are lesser number of outliers into the data and shorter tail it has and lower peak we will see also there.
+
+
+LSTAT:-
+       mean :- the average % lower status of the population comes to 12.65306324 which sum of observation divided by number of observation = mean value. the average % lower status of the population comes out to be a 12.65306324 which means out of this all observation 12.65306324 is a average value of a distribution figure.
+
+      median :- the median comes out to be 11.36. As the number of observation into this data is even number so we found out this by (n/2)+(n/2)+1. And median value refers to the middle/centre of the data and no outliers will effects to the median value.Into this data the median value represents half of value of % lower status of the population were greater than the 11.36 and half of the % lower status of the population were less than the 11.36.
+
+      Standard error:- it represents how the % lower status of the population mean is diffrent from the sample mean.the vlue comes out to be a 0.317458906
+ which indicates its a standard error value which shows the how diffrent % lower status of the population mean is likely to be from a sampel mean.
+      
+      mode:- indicates that which number appears most into the data. and the % lower status of the population 8.05 is repeated most of the time into the age. 
+
+      standard deviation:- the standard deviation which comes out to be 7.141061511 it means that our % lower status of the population mean should be vary from the mean 12.65306324-7.141061511=5.44121222 to 12.65306324+7.141061511=19.7237899. it should go above to the mean 20.7237899 to this value and below the mean 16.44121222 to this value for one step of standard deviation.(approx)
+
+
+      range :- range shows us to the range of data means range in which our observations mainly lies like highest-lowest=range of data.
+       
+      maximum:- shows the maximum value lies in our data.
+      
+      minimum:- shows the minimum value lies in our data.
+      
+      sum:- shows the sum of all the ages from the observations.
+
+      count:- shows the number of observations are there into the data.
+
+    skewness:-
+
+     a positive value of the skweness shows that the its tail is more prononunced on the right side than it is on the left.AAAnd in this case we are getting the outliers into the data at the end due to which our mean value is slightly greater than the median value.
+
+      
+     kurtosis:-
+        
+      a value greater than 0 into this data feild will shows that its a leptokartic distribution and having higher number of outliers its have a longer tail as well and we can see the higher peak as well into this kind distribution.
+
+
+
+
+AVG_ROOM:-
+       mean :- the average average number of rooms per house comes to 6.284634387 which sum of observation divided by number of observation = mean value. the average average number of rooms per house comes out to be a 6.284634387 which means out of this all observation 6.284634387 is a average value of a distribution figure.
+
+      median :- the median comes out to be 6.2085. As the number of observation into this data is even number so we found out this by (n/2)+(n/2)+1. And median value refers to the middle/centre of the data and no outliers will effects to the median value.Into this data the median value represents half of value of average number of rooms per house were greater than the 6.2085 and half of the average number of rooms per house were less than the 6.2085.
+
+      Standard error:- it represents how the average number of rooms per house mean is diffrent from the sample mean.the vlue comes out to be a 0.031235142
+ which indicates its a standard error value which shows the how diffrent average number of rooms per house mean is likely to be from a sampel mean.
+      
+      mode:- indicates that which number appears most into the data. and the average number of rooms per house 5.713 is repeated most of the time into the age. 
+
+      standard deviation:- the standard deviation which comes out to be 7.141061511 it means that our average number of rooms per house mean should be vary from the mean 6.284634387-0.702617143=6.44121222 to 6.284634387+0.702617143=6.7237899. it should go above to the mean 20.7237899 to this value and below the mean 16.44121222 to this value for one step of standard deviation.(approx)
+
+
+      range :- range shows us to the range of data means range in which our observations mainly lies like highest-lowest=range of data.
+       
+      maximum:- shows the maximum value lies in our data.
+      
+      minimum:- shows the minimum value lies in our data.
+      
+      sum:- shows the sum of all the ages from the observations.
+
+      count:- shows the number of observations are there into the data.
+
+skewness:-
+
+     a positive value of the skweness shows that the its tail is more prononunced on the right side than it is on the left.AAAnd in this case we are getting the outliers into the data at the end due to which our mean value is slightly greater than the median value.
+
+
+ kurtosis:-
+        
+      a value greater than 0 into this data feild will shows that its a leptokartic distribution and having higher number of outliers its have a longer tail as well and we can see the higher peak as well into this kind distribution.
+
+
+
+AVG_PRICE:-
+       mean :- the average Average value of houses comes to 22.53280632 which sum of observation divided by number of observation = mean value. the average Average value of houses comes out to be a 22.53280632 which means out of this all observation 22.53280632 is a average value of a distribution figure.
+
+      median :- the median comes out to be 21.2. As the number of observation into this data is even number so we found out this by (n/2)+(n/2)+1. And median value refers to the middle/centre of the data and no outliers will effects to the median value.Into this data the median value represents half of value of Average value of houses were greater than the 6.2085 and half of the Average value of houses were less than the 6.2085.
+
+      Standard error:- it represents how the Average value of houses mean is diffrent from the sample mean.the vlue comes out to be a 0.408861147
+ which indicates its a standard error value which shows the how diffrent Average value of houses mean is likely to be from a sampel mean.
+      
+      mode:- indicates that which number appears most into the data. and Average value of houses 50 is repeated most of the time into the age. 
+
+      standard deviation:- the standard deviation which comes out to be 9.197104087 it means that our Average value of houses mean should be vary from the mean 22.53280632-9.197104087=13.44121222 to 22.53280632+9.197104087=31.7237899. it should go above to the mean 20.7237899 to this value and below the mean 16.44121222 to this value for one step of standard deviation.(approx)
+
+
+      range :- range shows us to the range of data means range in which our observations mainly lies like highest-lowest=range of data.
+       
+      maximum:- shows the maximum value lies in our data.
+      
+      minimum:- shows the minimum value lies in our data.
+      
+      sum:- shows the sum of all the ages from the observations.
+
+      count:- shows the number of observations are there into the data.
+
+
+    skewness:-
+
+     a positive value of the skweness shows that the its tail is more prononunced on the right side than it is on the left.AAAnd in this case we are getting the outliers into the data at the end due to which our mean value is slightly greater than the median value.
+
+
+    kurtosis:-
+        
+      a value greater than 0 into this data feild will shows that its a leptokartic distribution and having higher number of outliers its have a longer tail as well and we can see the higher peak as well into this kind distribution.
+
+
+CRIME RATE:-
+       mean :- the average per capita crime rate by town comes to 4.871976285 which sum of observation divided by number of observation = mean value. the average per capita crime rate by town out to be a 4.871976285 which means out of this all observation 4.871976285 is a average value of a distribution figure.
+
+      median :- the median comes out to be 21.2. As the number of observation into this data is even number so we found out this by (n/2)+(n/2)+1. And median value refers to the middle/centre of the data and no outliers will effects to the median value.Into this data the median value represents half of value of per capita crime rate by town were greater than the 4.82 and half of the per capita crime rate by town were less than the 4.82.
+
+      Standard error:- it represents how the per capita crime rate by town mean is diffrent from the sample mean.the vlue comes out to be a 0.129860152 which indicates its a standard error value which shows the how diffrent Average value of houses mean is likely to be from a sampel mean.
+      
+      mode:- indicates that which number appears most into the data. and per capita crime rate by town 3.43 is repeated most of the time into the age. 
+
+      standard deviation:- the standard deviation which comes out to be 2.921131892 it means that our per capita crime rate by town mean should be vary from the mean 4.871976285-2.921131892=2.44121222 to 4.871976285+2.921131892=6.7237899. it should go above to the mean 6.7237899 to this value and below the mean 2.44121222 to this value for one step of standard deviation.(approx)
+
+
+      range :- range shows us to the range of data means range in which our observations mainly lies like highest-lowest=range of data.
+       
+      maximum:- shows the maximum value lies in our data.
+      
+      minimum:- shows the minimum value lies in our data.
+      
+      sum:- shows the sum of all the ages from the observations.
+
+      count:- shows the number of observations are there into the data.
+
+  skewness:-
+
+     a positive value of the skweness shows that the its tail is more prononunced on the right side than it is on the left.AAAnd in this case we are getting the outliers into the data at the end due to which our mean value is slightly greater than the median value.
+
+  kurtosis:- 
+        a neagtive value of the kurtosis is shows that the it is a platy kurtic kurtosis which means there are lesser number of outliers into the data and shorter tail it has and lower peak we will see also there.
+
+
+
+
+--------------xxxxx--------------xxxxx--------------xxxxxx---------------xxxxxx------------xxxxxxx-------------xxxxxx-----------xxxxx-----xxxxxx--------xxxxxxx--------
+
+
+
+
+question 2:-
+
+
+
+     yes i plot the histogram on average price of houses, so by plot the histogram on to the average price of the houses im seeing is that from value 5 to 9 in $ 1000s the value comes out to be 21 which means the average the values of the houses from 5 to 9 in $n1000s is 21 in count wheater it lies into the 5.5 in $ 1000s or whatever value we have to in between 5 to 9 the same thing is happens in all the data by the 4 intervals till  49 to 53 in $ 1000s. and we can also sees that the most of the houses lies in between the 21 to 25 which is 133 it means the houses average value which comes under this values has average value in between the 21 to 25 and afterwards we have a 17 to 21 with value to 122 and next to it is 74 which comes under 13 to 17. so ya thats what i infer from this average prices of houses.
+
+
+------------xxxxx---------------xxxxxxx-----------------xxxxxx-----------------xxxxxxx-------------------xxxxxxxxx-----------xxxxxxxxx------xxxxxx-----------xxxxxx----
+
+
+
+
+question 3:-
+  
+
+   yes i calculate a covariance matrix by using the data analysis tool pack and from the data i would like to says that the average price and tax has a covariance value is -724.8204284 which shows that its a highly negative covariance value which indicates that they move in opposite directions.And tax shows as a value of 28348.6236 it shos a very large spread in the variable values.And i would like to says that one thing the fundamental of this covariance is that if the value of the covariance between the two variable irrespective of their if covariance value is zero then it suggests to us there is no linear relationship and if the value is positive above zero but below one then it indicates a positive linear relationship between the variables but the strength of the relationship is moderate to each other.And if its above to whatever value it indicates that the variables tend to move closely together in the same direction, with the higher dgree of dependency its shows a very strong relationship between the two variables and main thing is that by refers the above information im easily understand the matrix which i created and i shows that my core is clear regarding this topic and im tried well explain the neagtive value of covariance between the two datas.
+
+
+
+-------xxxxx-----------xxxxxx--------------xxxxxxxxx-------------xxxxxxxxxxx--------------xxxxxxxxxxxxxx----------------xxxxxxxxxxxxxxxx------------xxxxxx-------------
+
+
+question 4:-
+
+
+
+   Top three positively correlated pairs are first one is distance from highway and tax with value of 0.910228189 and 2nd one is nitric oxides concentration and proportion of non-retail business acres per town with the value of 0.763651447 and the third one is nitric oxides concentration and proportion of houses built prior to 1940 with the value of 0.731470104.
+
+   Top three negatively correlated pairs are first one is Average value of houses in $1000's and % lower status of the population with the value of -0.737662726 and the second one is % lower status of the population and average number of rooms per house with the value of -0.613808272 and the third one is Average value of houses in $1000's and pupil-teacher ratio by town with the value of -0.507786686.
+
+
+The value with 1 is shows that both the variables are positively correlates with each other and the value with -1 will shows that the variables are negatively correlates with each other and the value comes to zero shows that their is no/weaker correlation between the variables.
+
+
+
+
+------xxxxx--------------xxxxxxxxxxx-------------xxxxxxxxxxxxxxx------------------xxxxxxxxxxx--------------xxxxxxxxxxxxx--------------xxxxxxxx------xxxx---------------
+
+
+
+question 5:-
+
+1st part:-
+
+     yes so according to the statment first of all in terms of variance from regression we can observe that the difference between the observe values and the average of predicted values but the average of predicted values comes to 45.93658893 this means how are predicted values data distributed from the mean line.When we compare the difference between the actual or observed value and predicted values we found that alot of difference are there some times the diff between predicted value and actual values = errors gos too neagtive and some time the values comes too positive.
+
+
+coefficient:- the coefficient value comes -0.950049354.Mainly coefficient value shows the slope,angle of a line and also it determines dependence of one variable to another variable and also it measures the average functional relationship between the variables also in this case the value comes to -0.950049354 it shows the slopes line value in terms of effect of independent value to the dependent value.
+
+
+Intercept-value:- the intercept values comes 34.55384088.In this 34.55384088 value is a best intercept value becouse at this value according to this two variables this is the intercept value were the least errors were occured.And we can obtain it by calculating hq(x) = q0 + q1(x).And at this intercept value we can achieve our global n point.
+
+
+Residual plot:- The residual plot shows to us the actual difference between the observed/actual avr price and predicted avr price with respect to the lower rate of population and visualise it for better understanding on the scatter plot. Where with the help of x-axis and y-axis we can understand how far our diffrence values goes weather it goes to positive or negative with respect to the dependent and independent variables.
+
+
+2nd part:-
+
+     as we see the % lower status of the population as a independent variable and Average value of houses in $1000's as a dependent variable.The r square value which we obtain is 54.41% which means we can obatin only 54.41% result from the independent variable and rest of the data we dont have any idea this shows the how strong or weak relationship between the dependent and independent variables have. And by see this value 54.41% which ok but not very high by which we can say that only % lower status of the population as a independent variable is enough for further analysis we need more columns for better analysis which can make our r square value as high by which we can or move forward for further analysis and point is like adjusted r square will also helps us to tell weather the columns which we are adding is genuinely related to the dependent variable or not so we can make further analysis.
+
+
+
+--------xxxxxxx-----------------xxxxxxxxxx---------------------xxxxxxxxxxxxxx---------------------xxxxxxxxxxx---------------------xxxxxxxxxx----------------xxxxxxxx---
+
+
+
+question 6 :-
+
+
+ yes in this question we can calculate the avg-price If a new house in this locality has 7 rooms (on an average) and has a value of 20 for L-STAT. Now here we use multi linear regression equation for which the formula or the way to calculate is yi = mx1 + mx2 + c.
+this equation were used when we have multiple independent variables but for those only one intercept value we have.
+And by calculating this the predicted avg-price value for a new house in this locality has 7 rooms (on an average) and has a value of 20 for L-STAT value comes to be 21.45807639
+which is lower than the company quoting value which is 30000. so ultimately we can say that the company will overcharge for his property.
+
+
+part 2:-
+         yes the performance of this model better than the previous model we had made in last question.Now im going to explain how the performance of this model better than the previous model in terms of adjusted rsquare.As in previous model our adjusted r square value is to be 54.32% which shows from only one independent variable we can get this result this shows how much strong type or weak type of relationship between the variables have so now in this question our adjusted r square value is to be like 63.71 which is greater than the previous and it shows the how much result we are getting from this two independent variable. AS adjusted r square will increase only in a case were the relationship between the variables is strong if it is not strong then the adjusted r square will not increase only r square will increase in that case and here we see a across 9% value diff in our adjusted r square value as comapred to previous one so we can say that the performance of this model is better than the performance we had in previous model.
+
+
+
+---------xxxxxxx-------------------xxxxxxxx-------------------xxxxxxxxx-------------------xxxxxxxxxxxx---------------------xxxxxxxxxxxxx----------------xxxxxxxxxxxx---
+
+
+question 7:-
+
+adjusted r square:-
+  ok so in this regression model our adjusted r square value is to be 68.82% which is lower than the r square value in this question this shows that if all the variables become independent with respect to avr-price they can only obtain the result which is 68.82% which means all the independent variables with respect to the dependent variable have this much strong relationship.
+
+SIGNIFICANCE OF EACH VARIABLE WITH RESPECT TO AVERAGE PRICE & COEFFICIENTS VALUES:-
+  1) the coefficient for the crime rate is 0.048725141.This shows that a positive relationship between the crime rate and average price of the house as the crime rate were decrease the avg-value of the house were increase by 0.048.while all other independent variables becomes constant.
+
+ 2) the coefficient for the age of the house is 0.032770689.This shows that a positive relationship between the age of the house and average price of the house as the age of the house were decrease the avg-value of the house were increase by 0.032.while all other independent variables becomes constant.
+
+ 3) the coefficient for the proportion of non-retail business acres per town  is 0.130551399.This shows that a positive relationship between the proportion of non-retail business acres per town and average price of the house as the proportion of non-retail business acres per town were increase the avg-value of the house were increase by 0.13.while all other independent variables becomes constant.
+
+4) the coefficient for the nitric oxides concentration  is -10.3211828.This shows that a negative relationship between the nitric oxides concentration  and average price of the house as nitric oxides concentration were increase the avg-value of the house were decrease by -10.32.while all other independent variables becomes constant.
+
+5) the coefficient for the distance from highway (in miles) is 0.261093575.This shows that a positive relationship between the distance from highway (in miles) and average price of the house as the distance from highway (in miles) were decrease the avg-value of the house were increase by 0.26.while all other independent variables becomes constant.
+
+6) the coefficient for the full-value property-tax rate per $10,000 is -0.01440119.This shows that a negative relationship between the full-value property-tax rate per $10,000 and average price of the house as full-value property-tax rate per $10,000 were increase the avg-value of the house were decrease by -0.014.while all other independent variables becomes constant.
+
+7) the coefficient for the pupil-teacher ratio by town is -1.074305348.This shows that a negative relationship between the pupil-teacher ratio by town and average price of the house as pupil-teacher ratio by town were decrease the avg-value of the house were decrease by -1.07.while all other independent variables becomes constant.
+
+8) the coefficient for the average number of rooms per house is 4.125409152.This shows that a positive relationship between the average number of rooms per house and average price of the house as the average number of rooms per house were increase the avg-value of the house were increase by 4.12.while all other independent variables becomes constant.
+
+9) the coefficient for the % lower status of the population is -0.603486589.This shows that a negative relationship between the % lower status of the population and average price of the house as the % lower status of the population were decrease the avg-value of the house were decrease by -0.60.while all other independent variables becomes constant.
+
+
+NOTE:- The explanation of this coefficients is based upon the data and other values also its not only based upon wheater if the value is positive then the relationship is positive and avg price will increase it based upon the characteristics OF independent variable also as im also know if the coefficient if positve then the dependent variable will increases but need to take into mind other characteristics also independent variable nature and athore slopes values also.
+
+
+Intercept value:-
+
+The intercept value of 29.24131526 represents the predicted average price of a house when all independent variables are set to be zero.
+
+
+xxxxx---------------xxxxxxx---------------xxxxxxxxxxx-----------------xxxxxxxxxxxx---------------xxxxxxxxxx-----------------xxxxxxxxxx------------------xxxxxxxxxx-----
+
+
+
+question 8:-
+
+output lof this model:-
+
+r-square:-
+     r-square value in this case is 0.274789544 which shows that 27% of the result we will get from this five independent variables and rest of the data we will not have any idea. This shows the how strong relationship we have in betweens the independent and dependent variables.
+
+intercept value:-
+      
+    The intercept value of 27.14923357 represents the predicted average price of a house when all independent variables are set to be zero.
+
+slopes value:-
+ 
+1) the coefficient for the age of the house is -0.028722637.This shows that a negative relationship between the age of the house and average price of the house as the age of the house were increase the avg-value of the house were decrease by -0.02.while all other independent variables becomes constant.
+
+2) the coefficient for the nitric oxides concentration  is -3.227330248.This shows that a negative relationship between the nitric oxides concentration  and average price of the house as nitric oxides concentration were increase the avg-value of the house were decrease by -3.22.while all other independent variables becomes constant.
+
+3) the coefficient for the distance from highway (in miles) is 0.197417303.This shows that a positive relationship between the distance from highway (in miles) and average price of the house as the distance from highway (in miles) were decrease the avg-value of the house were increase by 0.19.while all other independent variables becomes constant.
+
+4) the coefficient for the full-value property-tax rate per $10,000 is -0.02287141.This shows that a negative relationship between the full-value property-tax rate per $10,000 and average price of the house as full-value property-tax rate per $10,000 were increase the avg-value of the house were decrease by -0.022.while all other independent variables becomes constant.
+
+
+5) the coefficient for the % lower status of the population is -0.275011917.This shows that a negative relationship between the % lower status of the population and average price of the house as the % lower status of the population were decrease the avg-value of the house were decrease by -0.27.while all other independent variables becomes constant.
+
+
+NOTE:- The explanation of this coefficients is based upon the data and other values also its not only based upon wheater if the value is positive then the relationship is positive and avg price will increase it based upon the characteristics OF independent variable also as im also know if the coefficient if positve then the dependent variable will increases but need to take into mind other characteristics also independent variable nature and athore slopes values also.
+
+
+3,4)
+
+
+BY comapre the adjusted r square value of previous model which is 0.267537439 and current model adjusted r square value is 0.686242643 definatelly our previous regression model adjusted r square shows that prvious model performs better than this model.
+
+
+If the value of the nitric oxides concentration will increase in that case the predicted average value of the house will decrease.
+
+
+-----xxxxxx--------------------------------xxxxxxxxxxxxxxxxxxx----------------------------xxxxxxxxxxxxxxxxxxxxx--------------------------xxxxxxxxxxxxxxxxxxx-----------
+
+
+
+   
+
